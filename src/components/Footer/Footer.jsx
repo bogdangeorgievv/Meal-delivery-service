@@ -28,12 +28,12 @@ const Footer = () => {
                 <h2>GET IN TOUCH</h2>
                 <ul>
                     <li>+3598-8888-8888</li>
-                    <li>contact@tomato.com</li>
+                    <li>bogdan.georgievv1@gmail.com</li>
                 </ul>
             </div>
         </div>
             <hr />
-            <p className='footer-copyright'>Copyright 2024 © Tomato.com - All Rights Reserved.</p>
+            <p className='footer-copyright'>Copyright 2024 © Bogdan.com - All Rights Reserved.</p>
       
     </div>
   )
